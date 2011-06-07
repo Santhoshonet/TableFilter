@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TableFilter", "..\TableFilter", "{4ECB4ACE-2E41-4E3E-925F-B7F8ADE2CF2A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/TableFilter"
+		Debug.AspNetCompiler.PhysicalPath = "..\TableFilter\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TableFilter\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TableFilter"
+		Release.AspNetCompiler.PhysicalPath = "..\TableFilter\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TableFilter\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2141"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ECB4ACE-2E41-4E3E-925F-B7F8ADE2CF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECB4ACE-2E41-4E3E-925F-B7F8ADE2CF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
